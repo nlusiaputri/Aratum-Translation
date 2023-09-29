@@ -1,6 +1,6 @@
 {
   "web:common:export:trialBalance": "Export Trial Balance",
-  "web:common:default:clickToRecenterTheMap": "Click to recenter the map",
+  "web:common:default:clickToRecenterTheMap": "Klik untuk pusatkan ulang peta ini",
   "web:common:default:lodopIsNotInstalled": "Lodop is not installed, please download and install first.",
   "web:common:default:oneClickRecalculationTaskTips": "This operation is to recalculate all warehouse data, which is very time-consuming (takes several hours) and consumes resources. Please operate with caution.",
   "web:common:default:applicationObject": "Range",
